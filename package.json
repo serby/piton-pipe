@@ -1,7 +1,7 @@
 {
 	"name": "piton-pipe",
 	"description": "Build and run an Async pipeline of functions",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"author": "Paul Serby <paul.serby@clock.co.uk>",
 	"contributors": [
 		{ "name": "Paul Serby", "email": "paul.serby@clock.co.uk" }
