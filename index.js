@@ -5,4 +5,4 @@
  *
  * Thursday 18 August 2011
  */
-module.exports.createPipe = require('./lib/entity-definition').createPipe;
+module.exports.createPipe = require('./lib/pipe').createPipe;
