@@ -9,14 +9,14 @@ This allows async operations to process the value.
 ## Usage
 
      var pipe = require('piton-pipe').createPipe(['onCreate']);
-     pipe.add('onCreate', function(value, callback) {
+     pipe.add(function(value, callback) {
       callback(null, value + 2;
      });
-     pipe.add('onCreate', function(value, callback) {
+     pipe.add(function(value, callback) {
       callback(null, value / 3);
      });
      var value = 7;
-     pipe.run(value, 'onCreate', function(error, newValue) {
+     pipe.run(value, function(error, newValue) {
        console.log(newValue);
      });
 
