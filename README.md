@@ -1,4 +1,5 @@
 # piton-pipe - Build and run an Async pipeline of functions.
+
 An input value is given to the pipe and passed each function in turn.
 This allows async operations to process the value.
 
@@ -21,7 +22,7 @@ This allows async operations to process the value.
      });
 
 ## Credits
-* [Paul Serby](https://github.com/PabloSerbo/)
+* [Paul Serby](https://github.com/serby/)
 
 ## Licence
 Licenced under the [New BSD License](http://opensource.org/licenses/bsd-license.php)

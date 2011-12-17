@@ -2,9 +2,9 @@
 	"name": "piton-pipe",
 	"description": "Build and run an Async pipeline of functions",
 	"version": "0.0.3",
-	"author": "Paul Serby <paul.serby@clock.co.uk>",
+	"author": "Paul Serby <paul@serby.net>",
 	"contributors": [
-		{ "name": "Paul Serby", "email": "paul.serby@clock.co.uk" }
+		{ "name": "Paul Serby", "email": "paul@serby.net" }
 	],
 	"dependencies": {
 	},
@@ -13,7 +13,7 @@
 		"should": "0.3.2"
 	},
 	"keywords": ["pipe"],
-	"repository": "git://github.com/PabloSerbo/piton-pipe",
+	"repository": "git://github.com/serby/piton-pipe",
 	"main": "index",
 	"scripts": {
 		"test": "cake test",
