@@ -1,5 +1,5 @@
 # piton-pipe - Build and run an Async pipeline of functions.
-Input is given then passed though the functions in the pipe via callbacks.
+An input value is given to the pipe and passed each function in turn.
 This allows async operations to process the value.
 
 ## Installation
