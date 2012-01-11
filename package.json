@@ -16,7 +16,7 @@
 	"repository": "git://github.com/serby/piton-pipe",
 	"main": "index",
 	"scripts": {
-		"test": "cake test",
+		"test": "mocha -R spec -r should",
 		"prepublish" : "npm prune"
 	},
 	"engines": { "node": ">= 0.4.6 < 0.7.0" }
