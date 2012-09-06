@@ -1,7 +1,7 @@
 {
 	"name": "piton-pipe",
 	"description": "Build and run an Async pipeline of functions",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"author": "Paul Serby <paul@serby.net>",
 	"contributors": [
 		{ "name": "Paul Serby", "email": "paul@serby.net" }
@@ -19,5 +19,5 @@
 		"test": "mocha -R spec -r should",
 		"prepublish" : "npm prune"
 	},
-	"engines": { "node": ">= 0.4.6 < 0.7.0" }
+	"engines": { "node": ">= 0.4.6" }
 }
