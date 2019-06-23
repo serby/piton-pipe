@@ -9,8 +9,8 @@
 	"dependencies": {
 	},
 	"devDependencies": {
-		"mocha": "0.3.6",
-		"should": "0.3.2"
+		"mocha": "6.1.4",
+		"should": "13.2.3"
 	},
 	"keywords": ["pipe"],
 	"repository": "git://github.com/serby/piton-pipe",
