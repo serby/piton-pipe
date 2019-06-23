@@ -1,5 +1,7 @@
 # piton-pipe - Build and run an Async pipeline of functions.
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/serby/piton-pipe.svg)](https://greenkeeper.io/)
+
 An input value is given to the pipe and passed each function in turn.
 This allows async operations to process the value.
 
